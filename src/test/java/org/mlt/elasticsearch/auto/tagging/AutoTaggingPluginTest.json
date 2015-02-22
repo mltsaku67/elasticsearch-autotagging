@@ -1,0 +1,10 @@
+{
+  "test_type": {
+    "properties": {
+      "text": {
+        "type": "autotagging",
+        "classifier_factory": "org.mlt.elasticsearch.auto.tagging.TestClassifierFactory"
+      }
+    }
+  }
+}
